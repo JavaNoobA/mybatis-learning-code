@@ -1,8 +1,6 @@
 package me.erudev.mybatis;
 
-import me.erudev.mybatis.dao.DepartmentDao;
 import me.erudev.mybatis.dao.DepartmentMapper;
-import me.erudev.mybatis.dao.impl.DepartmentDaoImpl;
 import me.erudev.mybatis.entity.Department;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
